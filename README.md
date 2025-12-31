@@ -61,3 +61,10 @@ A visually rich website with smooth animations using GSAP.
 🔗 https://github.com/Avi2705/Gsap
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Avi2705&show_icons=true)
 
+
+## 📚 Currently Learning
+- MERN Stack Advanced Concepts
+- Data Structures & Algorithms (DSA)
+- Next.js & Server-side Rendering
+- Cloud Deployment (AWS / Vercel)
+
