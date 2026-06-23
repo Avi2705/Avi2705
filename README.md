@@ -1,6 +1,6 @@
 # 👋 Avinash R
 
-**Full Stack Developer | MERN Stack | Recent Graduate**
+**Full Stack Developer | MERN Stack | Software Developer**
 
 ---
 
@@ -119,17 +119,17 @@ As a fresh graduate, I'm actively expanding my knowledge in:
 
 ## 🔗 Connect With Me
 
-📧 **Email:** [avinash@example.com](mailto:avinash@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/avinash-r](https://linkedin.com)  
+📧 **Email:** [avinash@example.com](mailto:aviravi2705@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/avinash-r](https://www.linkedin.com/in/avinash2705)  
 🐙 **GitHub:** [github.com/Avi2705](https://github.com/Avi2705)  
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avi2705&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Avi2705&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avi2705&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Avi2705&layout=compact&theme=dark&hide_border=true)
 
 ---
 
