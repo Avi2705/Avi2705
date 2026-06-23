@@ -1,4 +1,4 @@
-# <div align="center">👋 Avinash Venkataraman</div>
+# <div align="center">👋 Avinash R</div>
 
 <div align="center">
 
