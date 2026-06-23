@@ -190,8 +190,8 @@ I'm actively seeking opportunities to:
 ## 📞 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Avi2705-black?style=flat-square&logo=github)](https://github.com/Avi2705)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aviravi2705)
+[![Email](https://img.shields.io/badge/Email-Send%20Message-red?style=flat-square&logo=gmail)](mailto:your.aviravi2705@example.com)
 
 ---
 
